@@ -26,18 +26,9 @@ opengym/        open-source gym web app (my fork) — shipping features
                 and fixes upstream
 ```
 
-## $ ./stats --theme=tokyonight
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=udin-petot&theme=tokyonight" alt="stats" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=udin-petot&theme=tokyonight" alt="languages" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=udin-petot&theme=tokyonight&hide_border=true" alt="streak"/>
-</p>
-
 ## $ ./snake
+
+<!-- it's hungry. the grid is empty because the account is new. feed it commits. -->
 
 <p align="center">
   <picture>
