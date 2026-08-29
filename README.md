@@ -51,16 +51,18 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udin-petot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udin-petot&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udin-petot&theme=tokyonight" alt="Profile details" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=udin-petot&theme=tokyonight" alt="Stats" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=udin-petot&theme=tokyonight" alt="Repos per language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=udin-petot&theme=tokyonight" alt="Most commit language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=udin-petot&theme=tokyonight" alt="Productive time" width="32%"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=udin-petot&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=udin-petot&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
 
 ---
