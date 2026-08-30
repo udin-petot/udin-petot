@@ -10,8 +10,7 @@ honestly? So far the answer involves RAGAS, G-Eval, and a lot of emulator runs.
 On the side I work on openGym, a gym management web app based on
 DuarteSantos8/openGym — mostly small features and fixes.
 
-Most of my work lives in private repositories while it matures. The pinned
-repos below show what they are without opening the code.
+Most of my work lives in private repositories while it matures.
 
 ## Contribution grid
 
