@@ -1,34 +1,19 @@
-# bagusm
+# BagusM
 
-ai student. i build autonomous agents that run entirely on android phones.
+AI student. I spend most of my time building Rikka-Agent, an autonomous agent
+runtime that runs entirely on an Android phone: on-device RAG, permanent
+memory, self-improving skills, and a model catalog with 60+ providers. It
+started from the rikkahub-agent codebase and became my undergraduate thesis —
+does on-device RAG actually make an agent better, and can that be measured
+honestly? So far the answer involves RAGAS, G-Eval, and a lot of emulator runs.
 
-```kotlin
-val rikka = agent {
-    name = "rikka-agent"
-    home = "on-device"                    // no cloud required
-    skills = listOf("rag", "memory", "self-improvement")
-    providers = 62                        // openai-compatible + local models
-    speaks = listOf("en", "id")
-}
+On the side I work on openGym, a gym management web app based on
+DuarteSantos8/openGym — mostly small features and fixes.
 
-// thesis in progress: does on-device rag actually make agents better?
-// measuring it with ragas + g-eval, one emulator run at a time.
-```
+Most of my work lives in private repositories while it matures. The pinned
+repos below show what they are without opening the code.
 
-> rag, in one line: an agent that opens its own notes before answering.
-
-## $ ls ~/projects
-
-```text
-rikka-agent/    android-native autonomous agent runtime — on-device rag,
-                slash commands, permanent memory, self-improving skills
-opengym/        open-source gym web app (my fork) — shipping features
-                and fixes upstream
-```
-
-## $ ./snake
-
-<!-- it's hungry. the grid is empty because the account is new. feed it commits. -->
+## Contribution grid
 
 <p align="center">
   <picture>
@@ -38,6 +23,4 @@ opengym/        open-source gym web app (my fork) — shipping features
   </picture>
 </p>
 
----
-
-something broken on this page? [open an issue](https://github.com/udin-petot/udin-petot/issues/new?title=profile+bug&body=found+something+on+this+profile+that+looks+wrong%3A) — i treat everything like a test case.
+Generated nightly by GitHub Actions from the real contribution grid.
